@@ -1,5 +1,7 @@
 ### Dice Game
 
+Deploy Link - https://priyanshuc123.github.io/DiceGame/
+
 Welcome to the Simple Dice Game Luck Resolution project! This project is designed to settle disputes or make decisions between two individuals based on luck. Instead of flipping a coin or drawing straws, why not leave it up to the roll of the dice?
 
 ### How to Use:
